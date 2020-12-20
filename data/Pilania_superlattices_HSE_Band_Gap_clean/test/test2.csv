@@ -1,0 +1,14 @@
+6-block periodic repeat unit for wurtzite superlattices along the [0001] direction,"HSE
+Band gap (eV)"
+BeTe-AlAs-AlAs-AlAs-AlAs-GaAs,0.55
+MgS-BeTe-AlP-AlP-AlP-AlP,1.14
+AlAs-AlAs-AlAs-AlAs-GaAs-GaAs,1.75
+MgS-MgS-BeTe-BeTe-AlP-ZnSe,1.07
+BeTe-BeTe-AlP-ZnSe-ZnSe-ZnSe,1.08
+BeTe-AlAs-AlAs-GaAs-GaAs-GaAs,0.61
+BeTe-BeTe-BeTe-BeTe-AlP-ZnSe,1.07
+AlAs-GaAs-GaAs-GaAs-GaAs-GaAs,1.13
+MgS-MgS-MgS-BeTe-BeTe-BeTe,1.8
+AlSb-AlSb-AlSb-AlSb-AlSb-GaSb,1.09
+AlN-AlN-AlN-AlN-AlN-AlN,5.45
+BeTe-BeTe-BeTe-AlP-ZnSe-ZnSe,1.07
