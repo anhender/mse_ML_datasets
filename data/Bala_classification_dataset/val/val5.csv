@@ -1,0 +1,10 @@
+Compound,x(BiMe1Me2)O3,Me1,Me2,Me3,frac-Me1,frac-Me2,frac-Me3,PT-content,Tolerance_Factor,Valence_Electron_Number,Martynov_Batsanov_Electronegativity,Ideal_Bond_Length_Sum,Mendeleev_Number,Formability
+Bi(NiTi),0.4,Ni,Ti,Ti,0.5,0.5,0.0,0.6,0.9986,9.6,3.848,3.8918,129.6,Yes
+BiScIn,0.55,Sc,In,Ti,0.75,0.25,0.0,0.45,0.9602,8.0,3.7209,3.9431,117.95,Yes
+BiScIn,0.37,Sc,In,Ti,0.864864865,0.135135135,0.0,0.63,0.9831,8.0,3.7347,3.9356,117.21,Yes
+Bi(ScFe),0.5,Sc,Fe,Ti,0.5,0.5,0.0,0.5,0.9804,9.25,3.7525,3.9105,121.5,Yes
+BiZnTi,0.8,Zn,Ti,Ti,0.5,0.5,0.0,0.2,0.9606,12.0,3.788,3.8682,138.4,No
+Bi(MgTi),0.6,Mg,Ti,Ti,0.5,0.5,0.0,0.4,0.9801,8.0,3.747,3.8796,134.5,Yes
+BiScIn,0.4,Sc,In,Ti,0.75,0.25,0.0,0.6,0.9785,8.0,3.737,3.9387,119.6,Yes
+Bi(MgNb),0.3,Mg,Nb,Ti,0.67,0.33,0.0,0.7,0.9993,7.997000000000001,3.7523,3.9066,130.921,Yes
+BF,0.4,Fe,Fe,Ti,0.5,0.5,0.0,0.6,0.9991,10.0,3.792,3.8942,130.8,Yes

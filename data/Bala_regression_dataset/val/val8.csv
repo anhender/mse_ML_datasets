@@ -1,0 +1,7 @@
+Compound,xBi(Me1Me2)O3,xPT,Tolerance_Factor,Ionic_Displacements,Ferroelectric_Tc_in_Kelvin
+Bi(ScIn)O3-PT,0.31,0.69,0.9881,0.0772,784
+Bi(MgNb)O3-PT,0.1,0.9,1.0189,0.0773,757
+Bi(ZnW)O3-PT,0.2,0.8,1.0097,0.0925,803
+BiAlO3-PT,0.05,0.95,1.0270000000000001,0.0764,733
+Bi(MgW)O3-PT,0.54,0.46,0.9836,0.0731,470
+Bi(MgTi)O3-PT,0.55,0.45,0.9899,0.0897,776

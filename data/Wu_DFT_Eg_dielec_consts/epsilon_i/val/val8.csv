@@ -1,0 +1,8 @@
+SMILES,epsilon_i
+c1ccccc1-c1ccccc1,0.1
+s1cccc1-c1ccc(NC)cc1,0.5
+s1cccc1CC(=O)C,0.34
+N(NN)N,0.05
+Cl[C@@](F)(C(F)(F)[C@@H](Cl)F)C(F)F,0.26
+O=Cc1ccc(NC)cc1,3.81
+O=C(Cc1ccccc1)C,0.35

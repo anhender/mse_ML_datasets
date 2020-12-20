@@ -1,0 +1,9 @@
+SMILES,epsilon_i
+O=Cc1ccc(cc1)CC,0.42
+s1c(ccc1C(=O)N)-c1sccc1,1.4
+O(CO)C,0.55
+O=C(C(=O)C)c1ccccc1,0.84
+O=C(c1ccc(cc1)C)c1ccccc1,0.35
+s1cccc1C(=O)NN,2.61
+N(Cc1ccccc1)C,0.11
+O=C(CC=O)C,0.41

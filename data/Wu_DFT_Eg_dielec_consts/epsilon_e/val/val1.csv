@@ -1,0 +1,10 @@
+SMILES,epsilon_e
+S(=O)(=O)(c1ccc(O)cc1)c1ccccc1,3.52
+s1cccc1-c1ccc(cc1)C(=O)N,5.29
+s1c(ccc1N)CC,3.55
+O=C(C=O)c1ccc(cc1)C,4.05
+"O(C(=O)CC[C@H](C(OCCCC)=O)C)C
+CCC",2.65
+C(CCC)(C)C,2.35
+s1cccc1C(=O)CC,3.72
+O=C(C)c1ccc(cc1)-c1ccccc1,4.68

@@ -1,0 +1,9 @@
+SMILES,GAP
+s1c(ccc1C)-c1ccc(N)cc1,2.76
+s1c(ccc1NN)-c1sccc1,2.19
+c1ccccc1CC[C@@H](C)c1ccccc1,4.5
+s1c(ccc1C)-c1sccc1,2.52
+s1c(ccc1NC)-c1ccccc1,2.57
+O=Cc1ccc(cc1)-c1ccc(cc1)C,2.75
+s1cccc1CNC,3.67
+O=C(N)CC,4.63
