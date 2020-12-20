@@ -1,0 +1,12 @@
+Sr.No.,MXene,Eg(GW; eV),Eg(PBE; eV),"phi(L)
+(eV)","phi(U)
+(eV)","d
+(angstrom)","delta(d)
+(angstrom)","V
+(angstrom^3/atom)",APF,"EV
+(eV)","EC
+(eV)","phi(N)
+(eV)","a
+(angstrom)",c,"Hf
+(eV)"
+60,Y-Y-C-Cl-Cl,2.1242,0.9648,3.1195,3.1195,2.5379,-0.078,60.3739,0.2823,-5.7981,-4.8333,3.1195,3.7238,1,-7.66
