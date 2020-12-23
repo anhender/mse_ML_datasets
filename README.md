@@ -66,3 +66,6 @@ Below are the papers whose data were used to populate this repository. The corre
 * Zhuo, Ya, Aria Mansouri Tehrani, and Jakoah Brgoch. "Predicting the band gaps of inorganic solids by machine learning." The journal of physical chemistry letters 9.7 (2018): 1668-1673. https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b00124
    - Zhuo_classification_data
    - Zhuo_regression_data
+
+## Acknowledgments
+This work was supported by the University of Utah's [Undergraduate Reserach Opportunities Program (UROP)](https://our.utah.edu/urop/) for the Fall 2020 Semester.
