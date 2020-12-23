@@ -10,3 +10,4 @@ Each dataset can be downloaded and read in by using Pandas. An example is shown 
 import pandas as pd
 data = pd.read_csv("Bala_classification_dataset/val/val0.csv")
 ```
+The code that was used to split the datasets via the K-Fold or the Leave-One-Out cross-validation methods is located in the [code directory](code/lit_data_k_splits.py).
