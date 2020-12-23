@@ -48,7 +48,7 @@ Here lists the papers whose data were used to complete this repository. The corr
    - Pilania_superlattices_elastic_consts
 * Rajan, Arunkumar Chitteth, et al. "Machine-learning-assisted accurate band gap predictions of functionalized MXene." Chemistry of Materials 30.12 (2018): 4031-4038. https://doi-org.ezproxy.lib.utah.edu/10.1021/acs.chemmater.8b00686 
    - Rajan_MXene_data
-* Seko, Atsuto, et al. "Machine learning with systematic density-functional theory calculations: Application to melting temperatures of single-and binary-component solids." Physical Review B 89.5 (2014): 054303. DOI: 10.1103/physrevb.89.054303
+* Seko, Atsuto, et al. "Machine learning with systematic density-functional theory calculations: Application to melting temperatures of single-and binary-component solids." Physical Review B 89.5 (2014): 054303. https://doi.org/10.1103/PhysRevB.89.054303
    - Seko_melt_temps
 * Wei, Han, et al. "Predicting the effective thermal conductivities of composite materials and porous media by machine learning methods." International Journal of Heat and Mass Transfer 127 (2018): 908-916. https://doi.org/10.1016/j.ijheatmasstransfer.2018.08.082 
    - Wei_composite_materials
