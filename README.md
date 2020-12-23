@@ -1,16 +1,21 @@
 # Benchmark Data for Accurate and Efficient Comparison of Machine Learning Models for Materials Discovery
 
 ## Data
-This repository contains datasets gathered from a variety of papers related to machine learning models used for materials discovery. The datasets are located under the directory labeled 'data' and are all in .csv format. Each dataset has been split into train, test, and validation sets OR simply train, test sets with the use of the scikit-learn [KFold cross-validation method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html), depending on the number of folds. An explanation of the specific method used for each dataset is described below.
+This repository contains datasets gathered from a variety of papers related to machine learning models used for materials discovery. The 'raw_data' directory contains the pre-split datasets, while the 'split_data' directory contains the split datasets. All datasets are in .csv format. An explanation of the specific method used for splitting each dataset is described below.
 
-Datasets with more than 100 values were split into train, test, and validation sets, either using 10-fold or 5-fold cross-valdiation. The number of folds (10 vs 5) was determined by what each specific paper had done in their own respective studies. Datasets with less than 100 values were split into train and test sets using the scikit-learn [LeaveOneOut cross-validaiton method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html).
+Datasets with more than 100 values were split into train, test, and validation sets, either using 10-fold or 5-fold cross-valdiation with the use of the scikit-learn [KFold cross-validation method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html). The number of folds (10 vs 5) was determined by what each specific paper had done in their own respective studies. Datasets with less than 100 values were split into train and test sets using the scikit-learn [LeaveOneOut cross-validaiton method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html).
 
 Each dataset can be downloaded and read in by using Pandas. An example is shown below.
 ```
 import pandas as pd
 data = pd.read_csv("Bala_classification_dataset/val/val0.csv")
 ```
-The code that was used to split the datasets via the K-Fold and the Leave-One-Out cross-validation methods is located in the [code](code/lit_data_k_splits.py) directory.
+The code that was used to split the datasets via the K-Fold and the Leave-One-Out cross-validation methods is located in the [code](code/lit_data_k_splits.py) directory. To run this code, the 'raw_data' directory will need to be downloaded, and the path given at the beginning of the code will need to be changed respectively:
+```
+def read_in_data():
+   # the following path needs to be changed
+    path = 'Literature_Data/Lit_cleaned_data/'
+```
 
 ## Works Cited
 Here lists the papers whose data were used to complete this repository. The corresponding datasets are listed below their respective paper. Additionally, a general overview of each paper can be seen in the Lit_Data_Overview_ver_final.xlsx file, which includes information such as the materials system, material property tested, machine learning model used, and performance metrics.
