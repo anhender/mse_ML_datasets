@@ -10,4 +10,21 @@ Each dataset can be downloaded and read in by using Pandas. An example is shown 
 import pandas as pd
 data = pd.read_csv("Bala_classification_dataset/val/val0.csv")
 ```
-The code that was used to split the datasets via the K-Fold or the Leave-One-Out cross-validation methods is located in the [code directory](code/lit_data_k_splits.py).
+The code that was used to split the datasets via the K-Fold and the Leave-One-Out cross-validation methods is located in the [code](code/lit_data_k_splits.py) directory.
+
+## Works Cited
+Here lists the papers whose data were used to complete this repository. The corresponding datasets are listed below their respective paper. Additionally, a general overview of each paper can be seen in the Lit_Data_Overview_ver_final.xlsx file, which includes information such as the materials system, material property tested, machine learning model used, and performance metrics.
+
+* Balachandran, Prasanna V., et al. "Experimental search for high-temperature ferroelectric perovskites guided by two-step machine learning." Nature communications 9.1 (2018): 1-9. https://doi.org/10.1038/s41467-018-03821-9
+   - Bala_classification_dataset
+   - Bala_regression_dataset
+* Carrete, Jesús, et al. "Finding unprecedentedly low-thermal-conductivity half-Heusler semiconductors via high-throughput materials modeling." Physical Review X 4.1 (2014): 011019. https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.011019 
+   - Carrete_therm_conduct_train_clean
+* Lee, Joohwi, et al. "Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques." Physical Review B 93.11 (2016): 115104. https://doi.org/10.1103/PhysRevB.93.115104 
+   - Lee_band_gaps
+* Li, Wei, Ryan Jacobs, and Dane Morgan. "Predicting the thermodynamic stability of perovskite oxides using machine learning models." Computational Materials Science 150 (2018): 454-463. https://doi.org/10.1016/j.commatsci.2018.04.033 
+   - Li_DFT_and_features_clean
+   - Li_DFT_dataset_clean
+* Liu, Yue, et al. "The onset temperature (Tg) of AsxSe1-x glasses transition prediction: A comparison of topological and regression analysis methods." Computational Materials Science 140 (2017): 315-321. https://doi.org/10.1016/j.commatsci.2017.09.008 
+   - Liu_Tg_AsSe_glass
+ 
