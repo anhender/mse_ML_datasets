@@ -3,7 +3,7 @@
 ## Data
 This repository contains datasets gathered from a variety of papers related to machine learning models used for materials discovery. The 'raw_data' directory contains the pre-split datasets, while the 'split_data' directory contains the split datasets. All datasets are in .csv format. An explanation of the specific method used for splitting each dataset is described below.
 
-Datasets with more than 100 values were split into train, test, and validation sets, either using 10-fold or 5-fold cross-valdiation with the use of the scikit-learn [KFold cross-validation method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html). The number of folds (10 vs 5) was determined by what each specific paper had done in their own respective studies. Datasets with less than 100 values were split into train and test sets using the scikit-learn [LeaveOneOut cross-validaiton method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html).
+Datasets with more than 100 values were split into train, test, and validation sets, either using 10-fold or 5-fold cross-valdiation with the use of the scikit-learn [K-Fold cross-validation method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html). The number of folds (10 vs 5) was determined primarily by following what each respective study did. Datasets with less than 100 values were split into train and test sets using the scikit-learn [Leave-One-Out cross-validation method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html).
 
 Each dataset can be downloaded and read in by using Pandas. An example is shown below.
 ```
@@ -18,7 +18,7 @@ def read_in_data():
 ```
 
 ## Works Cited
-Here lists the papers whose data were used to complete this repository. The corresponding datasets are listed below their respective paper. Additionally, a general overview of each paper can be seen in the Lit_Data_Overview_ver_final.xlsx file, which includes information such as the materials system, material property tested, machine learning model used, and performance metrics.
+Below are the papers whose data were used to populate this repository. The corresponding datasets are listed below their respective paper. Additionally, a general overview of the papers can be seen in the Lit_Data_Overview_ver_final.xlsx file, which includes information such as the materials system, material property tested, machine learning model used, and performance metrics.
 
 * Balachandran, Prasanna V., et al. "Experimental search for high-temperature ferroelectric perovskites guided by two-step machine learning." Nature communications 9.1 (2018): 1-9. https://doi.org/10.1038/s41467-018-03821-9
    - Bala_classification_dataset
