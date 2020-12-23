@@ -10,8 +10,10 @@ import os
 
 
 def read_in_data():
-    path = 'Literature_Data/Lit_cleaned_data/'
+    path = '/Users/anhender/Documents/UROP/Literature_Data/Lit_cleaned_data/'
     data_files = os.listdir(path)
+    if '.DS_Store' in data_files:
+        data_files.remove('.DS_Store')
     folders = []
     csv_files = []
     csv_df_dict = {}
@@ -173,7 +175,7 @@ def leave_one_k_fold():
                  'Wu_loss_tang_1kHz.csv', 'Xue_thermal_hysteresis.csv']
     for key in leave_one:
         df = papers_dict[key]
-        print(len(df))
+        # print(len(df))
         loo = LeaveOneOut()
         # print(key, '\n', papers_dict[key])
         training, testing = [], []
