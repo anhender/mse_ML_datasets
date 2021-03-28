@@ -23,7 +23,7 @@ Below are the papers whose data were used to populate this repository. The corre
 * Balachandran, Prasanna V., et al. "Experimental search for high-temperature ferroelectric perovskites guided by two-step machine learning." Nature communications 9.1 (2018): 1-9. https://doi.org/10.1038/s41467-018-03821-9
    - Bala_classification_dataset
    - Bala_regression_dataset
-* Carrete, Jesús, et al. "Finding unprecedentedly low-thermal-conductivity half-Heusler semiconductors via high-throughput materials modeling." Physical Review X 4.1 (2014): 011019. https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.011019 
+* Carrete, Jesús, et al. "Finding unprecedentedly low-thermal-conductivity half-Heusler semiconductors via high-throughput materials modeling." Physical Review X 4.1 (2014): 011019. https://doi.org/10.1103/PhysRevX.4.011019 
    - Carrete_therm_conduct_train_clean
 * Lee, Joohwi, et al. "Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques." Physical Review B 93.11 (2016): 115104. https://doi.org/10.1103/PhysRevB.93.115104 
    - Lee_band_gaps
@@ -46,14 +46,14 @@ Below are the papers whose data were used to populate this repository. The corre
    - Pilania_superlattices_GGA_Band_Gap_clean
    - Pilania_superlattices_HSE_Band_Gap_clean
    - Pilania_superlattices_elastic_consts
-* Rajan, Arunkumar Chitteth, et al. "Machine-learning-assisted accurate band gap predictions of functionalized MXene." Chemistry of Materials 30.12 (2018): 4031-4038. https://doi-org.ezproxy.lib.utah.edu/10.1021/acs.chemmater.8b00686 
+* Rajan, Arunkumar Chitteth, et al. "Machine-learning-assisted accurate band gap predictions of functionalized MXene." Chemistry of Materials 30.12 (2018): 4031-4038. https://doi.org/10.1021/acs.chemmater.8b00686 
    - Rajan_MXene_data
 * Seko, Atsuto, et al. "Machine learning with systematic density-functional theory calculations: Application to melting temperatures of single-and binary-component solids." Physical Review B 89.5 (2014): 054303. https://doi.org/10.1103/PhysRevB.89.054303
    - Seko_melt_temps
 * Wei, Han, et al. "Predicting the effective thermal conductivities of composite materials and porous media by machine learning methods." International Journal of Heat and Mass Transfer 127 (2018): 908-916. https://doi.org/10.1016/j.ijheatmasstransfer.2018.08.082 
    - Wei_composite_materials
    - Wei_porous_media
-* Wu, K., et al. "Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials." Journal of Polymer Science Part B: Polymer Physics 54.20 (2016): 2082-2091. https://doi-org.ezproxy.lib.utah.edu/10.1002/polb.24117 
+* Wu, K., et al. "Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials." Journal of Polymer Science Part B: Polymer Physics 54.20 (2016): 2082-2091. https://doi.org/10.1002/polb.24117 
    - Wu_DFT_Eg_dielec_consts
    - Wu_Exp_Tg
    - Wu_Exp_dielec_const
@@ -61,9 +61,9 @@ Below are the papers whose data were used to populate this repository. The corre
    - Wu_loss_tang_1kHz
 * Xue, Dezhen, et al. "Accelerated search for materials with targeted properties by adaptive design." Nature communications 7.1 (2016): 1-9. https://doi.org/10.1038/ncomms11241 
    - Xue_thermal_hysteresis
-* Zeng, Shuming, et al. "Machine learning-aided design of materials with target elastic properties." The Journal of Physical Chemistry C 123.8 (2019): 5042-5047. https://doi-org.ezproxy.lib.utah.edu/10.1021/acs.jpcc.9b01045 
+* Zeng, Shuming, et al. "Machine learning-aided design of materials with target elastic properties." The Journal of Physical Chemistry C 123.8 (2019): 5042-5047. https://doi.org/10.1021/acs.jpcc.9b01045  
    - Zeng_elastic_prop
-* Zhuo, Ya, Aria Mansouri Tehrani, and Jakoah Brgoch. "Predicting the band gaps of inorganic solids by machine learning." The journal of physical chemistry letters 9.7 (2018): 1668-1673. https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b00124
+* Zhuo, Ya, Aria Mansouri Tehrani, and Jakoah Brgoch. "Predicting the band gaps of inorganic solids by machine learning." The journal of physical chemistry letters 9.7 (2018): 1668-1673. https://doi.org/10.1021/acs.jpclett.8b00124 
    - Zhuo_classification_data
    - Zhuo_regression_data
 
