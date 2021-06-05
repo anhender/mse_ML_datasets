@@ -1,5 +1,5 @@
 # Benchmark Data for Accurate and Efficient Comparison of Machine Learning Models for Materials Discovery
-https://zenodo.org/badge/322740850.svg
+[![DOI](https://zenodo.org/badge/322740850.svg)](https://zenodo.org/badge/latestdoi/322740850)
 
 ## Data
 This repository contains datasets gathered from a variety of papers related to machine learning models used for materials discovery. The 'raw_data' directory contains the pre-split datasets, while the 'split_data' directory contains the split datasets. All datasets are in .csv format. An explanation of the specific method used for splitting each dataset is described below.
