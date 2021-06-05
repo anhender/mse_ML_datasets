@@ -1,4 +1,4 @@
-# Benchmark Data for Accurate and Efficient Comparison of Machine Learning Models for Materials Discovery
+# Benchmark Datasets Incorporating Diverse Tasks, Sample Sizes, Material Systems, and Data Heterogeneity for Materials Informatics
 [![DOI](https://zenodo.org/badge/322740850.svg)](https://zenodo.org/badge/latestdoi/322740850)
 
 ## Data
