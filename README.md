@@ -69,4 +69,5 @@ Below are the papers whose data were used to populate this repository. The corre
    - Zhuo_regression_data
 
 ## Acknowledgments
-This work was supported by the University of Utah's [Undergraduate Reserach Opportunities Program (UROP)](https://our.utah.edu/urop/) for the Fall 2020 Semester.
+This work was supported by the University of Utah's [Undergraduate Reserach Opportunities Program (UROP)](https://our.utah.edu/urop/) for the Fall 2020 Semester. We also gratefully acknowledge support from the National Science Foundation CAREER Award, grant number 1651668.
+
